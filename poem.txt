@@ -2,3 +2,6 @@ the rainbow
 blah
 blah 
 green purple
+and red
+btw
+bye
